@@ -123,7 +123,7 @@ if (runner) {
 
 `$workspaceUrl` -> Folder which the file belongs to.
 
-`$workspace` -> Get Project Directory 
+`$workspace` -> Get Root Project Directory Path
 
 
 ## Updates
