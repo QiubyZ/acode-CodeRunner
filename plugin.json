@@ -2,7 +2,7 @@
   "id": "acode.coderunner.plugin",
   "name": "Code Runner",
   "main": "main.js",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "readme": "readme.md",
   "icon": "icon.png",
   "files": [
